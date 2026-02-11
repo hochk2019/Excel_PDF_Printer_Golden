@@ -1,0 +1,22 @@
+﻿{
+  "folders": [],
+  "recursive": true,
+  "pattern": "*",
+  "date_from": "",
+  "date_to": "",
+  "use_excel": false,
+  "use_word": false,
+  "use_pdf": true,
+  "page_spec": "1",
+  "mode_pdf_export": false,
+  "pdf_merge": true,
+  "sheet_scope": "first",
+  "paper_size": "A4",
+  "out_dir": "",
+  "enable_logging": true,
+  "log_dir": "",
+  "selected_printer": "\\\\may01\\Canon LBP2900",
+  "search_term": "",
+  "sort_mode": "Tên A→Z",
+  "presets": {}
+}
